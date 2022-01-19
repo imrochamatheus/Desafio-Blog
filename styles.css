@@ -87,6 +87,7 @@ main {
 
 .post {
     padding: 20px;
+    margin: 25px 0;
     min-width: 100%;
     box-sizing: border-box;
     border-radius: 10px;
