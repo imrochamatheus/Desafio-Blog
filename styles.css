@@ -52,11 +52,12 @@ header > .nav {
     width: 100%;
     height: 65px;
     border: none;
-    margin: 70px 0 0 0 ;
     padding: 0 20px;
     font-size: 22px;
     line-height: 22px;  
     color: var(--white);
+    border-radius: 10px;
+    margin: 70px 0 0 0 ;
     background-color: rgba(255, 255, 255, .1);
 }
 
@@ -110,7 +111,7 @@ main {
     line-height: 32px;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 480px) {
 
     .nav > h3 {
         font-size: 22px;
